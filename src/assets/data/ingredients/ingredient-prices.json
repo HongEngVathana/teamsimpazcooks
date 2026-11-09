@@ -1,0 +1,312 @@
+[
+  {
+    "id": "ing-rice",
+    "nameKh": "អង្ករផ្ការំដួល",
+    "nameEn": "Jasmine Rice",
+    "category": "staple",
+    "unit": "kg",
+    "pricePerUnitKHR": 3800,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Phnom Penh Central Market (ផ្សារធំថ្មី)"
+  },
+  {
+    "id": "ing-chicken",
+    "nameKh": "សាច់មាន់ស្រែ",
+    "nameEn": "Free-range Chicken",
+    "category": "meat",
+    "unit": "kg",
+    "pricePerUnitKHR": 18000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Phnom Penh Central Market"
+  },
+  {
+    "id": "ing-pork-belly",
+    "nameKh": "សាច់ជ្រូកបីជាន់",
+    "nameEn": "Pork Belly",
+    "category": "meat",
+    "unit": "kg",
+    "pricePerUnitKHR": 22000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Phnom Penh Central Market"
+  },
+  {
+    "id": "ing-pork-lean",
+    "nameKh": "សាច់ជ្រូកសុទ្ធ",
+    "nameEn": "Lean Pork",
+    "category": "meat",
+    "unit": "kg",
+    "pricePerUnitKHR": 20000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Phnom Penh Central Market"
+  },
+  {
+    "id": "ing-beef",
+    "nameKh": "សាច់គោខ្មែរ",
+    "nameEn": "Cambodian Beef",
+    "category": "meat",
+    "unit": "kg",
+    "pricePerUnitKHR": 38000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Phnom Penh Central Market"
+  },
+  {
+    "id": "ing-fish-snakehead",
+    "nameKh": "ត្រីរ៉ស់",
+    "nameEn": "Snakehead Fish",
+    "category": "seafood",
+    "unit": "kg",
+    "pricePerUnitKHR": 18000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Phnom Penh Central Market"
+  },
+  {
+    "id": "ing-fish-catfish",
+    "nameKh": "ត្រីអណ្តែង",
+    "nameEn": "Catfish",
+    "category": "seafood",
+    "unit": "kg",
+    "pricePerUnitKHR": 12000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Phnom Penh Central Market"
+  },
+  {
+    "id": "ing-prawns",
+    "nameKh": "បង្កាស្រស់",
+    "nameEn": "Fresh Prawns",
+    "category": "seafood",
+    "unit": "kg",
+    "pricePerUnitKHR": 45000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Phnom Penh Central Market"
+  },
+  {
+    "id": "ing-egg",
+    "nameKh": "ពងមាន់",
+    "nameEn": "Chicken Egg",
+    "category": "meat",
+    "unit": "piece",
+    "pricePerUnitKHR": 600,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Phnom Penh Central Market"
+  },
+  {
+    "id": "ing-morning-glory",
+    "nameKh": "ត្រកួន",
+    "nameEn": "Morning Glory (Water Spinach)",
+    "category": "vegetable",
+    "unit": "bundle",
+    "pricePerUnitKHR": 2000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Phnom Penh Central Market"
+  },
+  {
+    "id": "ing-chinese-kale",
+    "nameKh": "ខាត់ណា",
+    "nameEn": "Chinese Broccoli / Kai Lan",
+    "category": "vegetable",
+    "unit": "kg",
+    "pricePerUnitKHR": 4000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Phnom Penh Central Market"
+  },
+  {
+    "id": "ing-mustard-greens",
+    "nameKh": "ស្ពៃខៀវ",
+    "nameEn": "Mustard Greens",
+    "category": "vegetable",
+    "unit": "bundle",
+    "pricePerUnitKHR": 2500,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Phnom Penh Central Market"
+  },
+  {
+    "id": "ing-pumpkin",
+    "nameKh": "ល្ពៅ",
+    "nameEn": "Pumpkin",
+    "category": "vegetable",
+    "unit": "kg",
+    "pricePerUnitKHR": 2500,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Phnom Penh Central Market"
+  },
+  {
+    "id": "ing-winter-melon",
+    "nameKh": "ត្រឡាច",
+    "nameEn": "Winter Melon",
+    "category": "vegetable",
+    "unit": "kg",
+    "pricePerUnitKHR": 2000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Phnom Penh Central Market"
+  },
+  {
+    "id": "ing-green-papaya",
+    "nameKh": "ល្ហុងខ្ចី",
+    "nameEn": "Green Papaya",
+    "category": "vegetable",
+    "unit": "kg",
+    "pricePerUnitKHR": 2000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Phnom Penh Central Market"
+  },
+  {
+    "id": "ing-eggplant-pea",
+    "nameKh": "ត្រប់ពុតលំញង",
+    "nameEn": "Pea Eggplant",
+    "category": "vegetable",
+    "unit": "kg",
+    "pricePerUnitKHR": 4000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Phnom Penh Central Market"
+  },
+  {
+    "id": "ing-kroeung",
+    "nameKh": "គ្រឿងស្លខ្មែរ (ស្លឹកគ្រៃ រមៀត រំដេង)",
+    "nameEn": "Khmer Kroeung Paste",
+    "category": "spice",
+    "unit": "kg",
+    "pricePerUnitKHR": 10000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Local Khmer Market"
+  },
+  {
+    "id": "ing-coconut-milk",
+    "nameKh": "ខ្ទិះដូងស្រស់",
+    "nameEn": "Fresh Coconut Milk",
+    "category": "seasoning",
+    "unit": "l",
+    "pricePerUnitKHR": 6000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Local Khmer Market"
+  },
+  {
+    "id": "ing-prahok",
+    "nameKh": "ប្រហុកសាច់",
+    "nameEn": "Cambodian Prahok",
+    "category": "seasoning",
+    "unit": "kg",
+    "pricePerUnitKHR": 16000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Siem Reap / Battambang Grade"
+  },
+  {
+    "id": "ing-fish-sauce",
+    "nameKh": "ទឹកត្រី",
+    "nameEn": "Fish Sauce",
+    "category": "seasoning",
+    "unit": "l",
+    "pricePerUnitKHR": 5000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Koh Kong Brand"
+  },
+  {
+    "id": "ing-palm-sugar",
+    "nameKh": "ស្ករត្នោត",
+    "nameEn": "Kampong Speu Palm Sugar",
+    "category": "seasoning",
+    "unit": "kg",
+    "pricePerUnitKHR": 6000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Kampong Speu Origin"
+  },
+  {
+    "id": "ing-white-sugar",
+    "nameKh": "ស្ករស",
+    "nameEn": "Cane Sugar",
+    "category": "seasoning",
+    "unit": "kg",
+    "pricePerUnitKHR": 3600,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Phnom Penh Central Market"
+  },
+  {
+    "id": "ing-salt",
+    "nameKh": "អំបិលកំពត",
+    "nameEn": "Kampot Sea Salt",
+    "category": "seasoning",
+    "unit": "kg",
+    "pricePerUnitKHR": 1500,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Kampot Salt Fields"
+  },
+  {
+    "id": "ing-cooking-oil",
+    "nameKh": "ប្រេងឆា",
+    "nameEn": "Vegetable Cooking Oil",
+    "category": "seasoning",
+    "unit": "l",
+    "pricePerUnitKHR": 8000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Phnom Penh Supermarket"
+  },
+  {
+    "id": "ing-ginger",
+    "nameKh": "ខ្ញីស្រស់",
+    "nameEn": "Fresh Ginger",
+    "category": "spice",
+    "unit": "kg",
+    "pricePerUnitKHR": 6000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Phnom Penh Central Market"
+  },
+  {
+    "id": "ing-garlic",
+    "nameKh": "ខ្ទឹមស",
+    "nameEn": "Garlic",
+    "category": "spice",
+    "unit": "kg",
+    "pricePerUnitKHR": 8000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Phnom Penh Central Market"
+  },
+  {
+    "id": "ing-shallots",
+    "nameKh": "ខ្ទឹមក្រហម",
+    "nameEn": "Shallots",
+    "category": "spice",
+    "unit": "kg",
+    "pricePerUnitKHR": 8000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Phnom Penh Central Market"
+  },
+  {
+    "id": "ing-pepper-kampot",
+    "nameKh": "ម្រេចខ្មៅកំពត",
+    "nameEn": "Kampot Black Pepper",
+    "category": "spice",
+    "unit": "kg",
+    "pricePerUnitKHR": 42000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Kampot Pepper Association (GI)"
+  },
+  {
+    "id": "ing-tamarind",
+    "nameKh": "អំពិលទុំ",
+    "nameEn": "Ripe Tamarind Paste",
+    "category": "seasoning",
+    "unit": "kg",
+    "pricePerUnitKHR": 6000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Local Khmer Market"
+  },
+  {
+    "id": "ing-lime",
+    "nameKh": "ក្រូចឆ្មារ",
+    "nameEn": "Lime",
+    "category": "fruit",
+    "unit": "piece",
+    "pricePerUnitKHR": 300,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Local Khmer Market"
+  },
+  {
+    "id": "ing-noodles-rice",
+    "nameKh": "នំបញ្ចុក / មីសួរ",
+    "nameEn": "Fresh Rice Noodles",
+    "category": "staple",
+    "unit": "kg",
+    "pricePerUnitKHR": 3000,
+    "lastUpdated": "2026-11-01",
+    "priceSource": "Traditional Artisan Market"
+  }
+]

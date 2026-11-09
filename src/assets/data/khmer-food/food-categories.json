@@ -1,0 +1,9 @@
+[
+  { "id": "soup", "nameKh": "សម្លខ្មែរ (Soups)", "nameEn": "Traditional Soups", "icon": "Soup" },
+  { "id": "fried", "nameKh": "ម្ហូបឆា និងចៀន (Stir-fry & Fried)", "nameEn": "Stir-fried & Fried", "icon": "Flame" },
+  { "id": "steamed", "nameKh": "ម្ហូបចំហុយ (Steamed)", "nameEn": "Steamed Dishes", "icon": "Wind" },
+  { "id": "grilled", "nameKh": "ម្ហូបអាំង (Grilled)", "nameEn": "Grilled & BBQ", "icon": "Zap" },
+  { "id": "vegetable", "nameKh": "ម្ហូបបន្លែសុទ្ធ (Vegetables)", "nameEn": "Vegetable Specialties", "icon": "Leaf" },
+  { "id": "breakfast", "nameKh": "អាហារពេលព្រឹក (Breakfast)", "nameEn": "Breakfast Specials", "icon": "Coffee" },
+  { "id": "curry", "nameKh": "ការី និងប្រហុក (Curry & Dips)", "nameEn": "Curries & Prahok Dips", "icon": "Sparkles" }
+]

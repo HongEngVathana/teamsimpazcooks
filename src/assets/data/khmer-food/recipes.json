@@ -1,0 +1,453 @@
+[
+  {
+    "id": "KH000001",
+    "nameKh": "សម្លកកូរត្រីរ៉ស់",
+    "nameEn": "Samlor Korko with Snakehead Fish",
+    "category": "soup",
+    "mealTypes": ["lunch", "dinner"],
+    "ingredients": [
+      { "ingredientId": "ing-fish-snakehead", "nameKh": "ត្រីរ៉ស់", "nameEn": "Snakehead Fish", "quantity": 400, "unit": "g" },
+      { "ingredientId": "ing-kroeung", "nameKh": "គ្រឿងស្លខ្មែរ", "nameEn": "Kroeung Paste", "quantity": 80, "unit": "g" },
+      { "ingredientId": "ing-prahok", "nameKh": "ប្រហុកសាច់", "nameEn": "Prahok", "quantity": 25, "unit": "g" },
+      { "ingredientId": "ing-green-papaya", "nameKh": "ល្ហុងខ្ចី", "nameEn": "Green Papaya", "quantity": 200, "unit": "g" },
+      { "ingredientId": "ing-pumpkin", "nameKh": "ល្ពៅ", "nameEn": "Pumpkin", "quantity": 150, "unit": "g" },
+      { "ingredientId": "ing-eggplant-pea", "nameKh": "ត្រប់ពុតលំញង", "nameEn": "Pea Eggplant", "quantity": 80, "unit": "g" },
+      { "ingredientId": "ing-rice", "nameKh": "អង្ករលីងម៉ដ្ឋ", "nameEn": "Roasted Crushed Rice", "quantity": 40, "unit": "g" },
+      { "ingredientId": "ing-fish-sauce", "nameKh": "ទឹកត្រី", "nameEn": "Fish Sauce", "quantity": 20, "unit": "ml" }
+    ],
+    "servings": 4,
+    "cookingTimeMinutes": 45,
+    "estimatedCostKHR": 12800,
+    "nutritionPerServing": {
+      "calories": 265,
+      "protein": 24,
+      "carbohydrates": 18,
+      "fat": 6,
+      "fiber": 5,
+      "sodiumMg": 680,
+      "vitamins": ["Vitamin A", "Vitamin C", "Folate"],
+      "minerals": ["Iron", "Calcium", "Potassium"]
+    },
+    "healthTags": ["high-fiber", "high-protein", "traditional-superfood", "lower-fat"],
+    "instructionsKh": [
+      "លាងសម្អាតត្រីរ៉ស់កាត់ជាកង់ៗ និងចិញ្ច្រាំសាច់ត្រីបន្តិចសម្រាប់គោះជាមួយគ្រឿង",
+      "បុកគ្រឿងស្លខ្មែរ (ស្លឹកគ្រៃ រមៀត រំដេង ស្លឹកក្រូចសើច ខ្ទឹមស) ជាមួយប្រហុកបន្តិច",
+      "ដាក់ឆ្នាំងលើភ្លើង រំលីងគ្រឿងនិងប្រហុកឱ្យឈ្ងុយ រួចដាក់សាច់ត្រីកកូរចូលឱ្យសព្វ",
+      "ថែមទឹកបន្តិចឱ្យពុះ រួចដាក់បន្លែរឹងៗ (ល្ហុង ល្ពៅ ត្រប់) ចូល",
+      "ចាក់ទឹកស៊ុបបន្ថែម បង់អង្ករលីងដើម្បីឱ្យទឹកខាប់មានក្លិនឈ្ងុយ",
+      "ភ្លក់រសជាតិជាមួយទឹកត្រី និងស្ករត្នោតបន្តិច រួចដាក់ស្លឹកបាស ឬត្រួយម្រុំចូលរួចជាការស្រេច"
+    ],
+    "source": "Cambodian National Heritage Cuisine",
+    "verified": true
+  },
+  {
+    "id": "KH000002",
+    "nameKh": "អាម៉ុកត្រីអន្លក់ស្លឹកញ",
+    "nameEn": "Steamed Fish Amok in Banana Leaf",
+    "category": "steamed",
+    "mealTypes": ["lunch", "dinner"],
+    "ingredients": [
+      { "ingredientId": "ing-fish-snakehead", "nameKh": "សាច់ត្រីរ៉ស់សុទ្ធ", "nameEn": "Fish Fillet", "quantity": 400, "unit": "g" },
+      { "ingredientId": "ing-coconut-milk", "nameKh": "ខ្ទិះដូងស្រស់", "nameEn": "Coconut Milk", "quantity": 300, "unit": "ml" },
+      { "ingredientId": "ing-kroeung", "nameKh": "គ្រឿងស្លខ្មែរ", "nameEn": "Kroeung Paste", "quantity": 70, "unit": "g" },
+      { "ingredientId": "ing-egg", "nameKh": "ពងមាន់", "nameEn": "Egg", "quantity": 2, "unit": "piece" },
+      { "ingredientId": "ing-fish-sauce", "nameKh": "ទឹកត្រី", "nameEn": "Fish Sauce", "quantity": 25, "unit": "ml" },
+      { "ingredientId": "ing-palm-sugar", "nameKh": "ស្ករត្នោត", "nameEn": "Palm Sugar", "quantity": 15, "unit": "g" },
+      { "ingredientId": "ing-prahok", "nameKh": "ប្រហុកចិញ្ច្រាំ", "nameEn": "Prahok", "quantity": 15, "unit": "g" }
+    ],
+    "servings": 4,
+    "cookingTimeMinutes": 40,
+    "estimatedCostKHR": 13900,
+    "nutritionPerServing": {
+      "calories": 310,
+      "protein": 26,
+      "carbohydrates": 8,
+      "fat": 18,
+      "fiber": 2,
+      "sodiumMg": 610,
+      "vitamins": ["Vitamin A", "Vitamin B12"],
+      "minerals": ["Calcium", "Phosphorus", "Iron"]
+    },
+    "healthTags": ["high-protein", "traditional", "steamed-healthy"],
+    "instructionsKh": [
+      "ហាន់សាច់ត្រីជាចំណិតស្តើងល្មម",
+      "កូរគ្រឿងស្លខ្មែរជាមួយខ្ទិះដូង ពងមាន់ ប្រហុក ទឹកត្រី និងស្ករត្នោតឱ្យរលាយចូលគ្នាសព្វ",
+      "ដាក់សាច់ត្រីចូលកូរត្រឡប់ថ្នមៗរហូតដល់ល្បាយឡើងខាប់រលោង",
+      "ទ្រាប់ស្លឹកញក្នុងកន្ទោងស្លឹកចេក រួចដួសសាច់អាម៉ុកដាក់ចូល",
+      "យកទៅចំហុយរយៈពេល ២០ ទៅ ២៥ នាទី រហូតដល់ឆ្អិនក្លិនឈ្ងុយសាយភាយ"
+    ],
+    "source": "Master Chef Khmer Traditional Archive",
+    "verified": true
+  },
+  {
+    "id": "KH000003",
+    "nameKh": "ប្រហុកខ្ទិះជ្រូកបីជាន់",
+    "nameEn": "Prahok Ktiss with Pork Belly",
+    "category": "curry",
+    "mealTypes": ["lunch", "dinner"],
+    "ingredients": [
+      { "ingredientId": "ing-pork-belly", "nameKh": "សាច់ជ្រូកបីជាន់ចិញ្ច្រាំ", "nameEn": "Minced Pork Belly", "quantity": 300, "unit": "g" },
+      { "ingredientId": "ing-prahok", "nameKh": "ប្រហុកសាច់ចិញ្ច្រាំម៉ដ្ឋ", "nameEn": "Prahok", "quantity": 50, "unit": "g" },
+      { "ingredientId": "ing-coconut-milk", "nameKh": "ខ្ទិះដូង", "nameEn": "Coconut Cream", "quantity": 250, "unit": "ml" },
+      { "ingredientId": "ing-kroeung", "nameKh": "គ្រឿងស្លខ្មែរ", "nameEn": "Kroeung", "quantity": 60, "unit": "g" },
+      { "ingredientId": "ing-eggplant-pea", "nameKh": "ត្រប់ពុតលំញង", "nameEn": "Pea Eggplant", "quantity": 80, "unit": "g" },
+      { "ingredientId": "ing-palm-sugar", "nameKh": "ស្ករត្នោត", "nameEn": "Palm Sugar", "quantity": 25, "unit": "g" }
+    ],
+    "servings": 4,
+    "cookingTimeMinutes": 35,
+    "estimatedCostKHR": 11500,
+    "nutritionPerServing": {
+      "calories": 340,
+      "protein": 18,
+      "carbohydrates": 10,
+      "fat": 24,
+      "fiber": 3,
+      "sodiumMg": 720,
+      "vitamins": ["Vitamin A", "Vitamin E"],
+      "minerals": ["Calcium", "Iron"]
+    },
+    "healthTags": ["traditional", "rich-flavor", "comfort-food"],
+    "instructionsKh": [
+      "ចិញ្ច្រាំសាច់ជ្រូកបីជាន់ និងប្រហុកឱ្យម៉ដ្ឋល្អ",
+      "ដាក់ខ្ទះលើភ្លើង រំលីងក្បាលខ្ទិះដូងឱ្យបែកប្រេង រួចដាក់គ្រឿងស្ល និងប្រហុកចូលឆាឱ្យឈ្ងុយ",
+      "ដាក់សាច់ជ្រូកចូលឆាត្រឡប់ឱ្យឆ្អិនសព្វ",
+      "ចាក់ចុងខ្ទិះចូល បង់ត្រប់ពុតលំញង រួចរំងាស់ឱ្យពុះតិចៗ",
+      "ភ្លក់រសជាតិផ្អែមប្រៃល្មម ដួសទទួលទានជាមួយបន្លែស្រស់ (ត្រសក់ សណ្តែកកួរ ត្រប់ស្រួយ)"
+    ],
+    "source": "Siem Reap Family Recipes",
+    "verified": true
+  },
+  {
+    "id": "KH000004",
+    "nameKh": "ឡុកឡាក់សាច់គោម្រេចកំពត",
+    "nameEn": "Cambodian Beef Lok Lak with Kampot Pepper",
+    "category": "fried",
+    "mealTypes": ["lunch", "dinner"],
+    "ingredients": [
+      { "ingredientId": "ing-beef", "nameKh": "សាច់គោផុយ", "nameEn": "Tender Beef", "quantity": 350, "unit": "g" },
+      { "ingredientId": "ing-garlic", "nameKh": "ខ្ទឹមសចិញ្ច្រាំ", "nameEn": "Garlic", "quantity": 20, "unit": "g" },
+      { "ingredientId": "ing-cooking-oil", "nameKh": "ប្រេងឆា", "nameEn": "Cooking Oil", "quantity": 20, "unit": "ml" },
+      { "ingredientId": "ing-pepper-kampot", "nameKh": "ម្រេចខ្មៅកំពត", "nameEn": "Kampot Pepper", "quantity": 10, "unit": "g" },
+      { "ingredientId": "ing-lime", "nameKh": "ក្រូចឆ្មារ", "nameEn": "Lime", "quantity": 2, "unit": "piece" },
+      { "ingredientId": "ing-fish-sauce", "nameKh": "ទឹកត្រី និងទឹកស៊ីអ៊ីវ", "nameEn": "Sauces", "quantity": 25, "unit": "ml" },
+      { "ingredientId": "ing-palm-sugar", "nameKh": "ស្ករត្នោត", "nameEn": "Sugar", "quantity": 10, "unit": "g" }
+    ],
+    "servings": 4,
+    "cookingTimeMinutes": 20,
+    "estimatedCostKHR": 16500,
+    "nutritionPerServing": {
+      "calories": 280,
+      "protein": 28,
+      "carbohydrates": 6,
+      "fat": 14,
+      "fiber": 1,
+      "sodiumMg": 520,
+      "vitamins": ["Vitamin C", "Vitamin B6", "Vitamin B12"],
+      "minerals": ["Iron", "Zinc", "Potassium"]
+    },
+    "healthTags": ["high-protein", "iron-rich", "quick-meal", "low-carb"],
+    "instructionsKh": [
+      "ហាន់សាច់គោជាដុំបួនជ្រុងតូចៗ ប្រឡាក់ជាមួយខ្ទឹមស ទឹកស៊ីអ៊ីវ ម្រេចកំពត និងស្ករបន្តិច",
+      "រៀបចានជាមួយបន្លែសាឡាដ ប៉េងប៉ោះ និងខ្ទឹមបារាំងហាន់ជាបន្ទះ",
+      "ដាក់ខ្ទះឱ្យក្តៅខ្លាំង ចាក់ប្រេងឆា រួចបង់ខ្ទឹមឱ្យឈ្ងុយ ទម្លាក់សាច់គោឆាភ្លើងខ្លាំងយ៉ាងលឿនឱ្យទន់ល្មម",
+      "ដួសសាច់គោដាក់លើចានបន្លែ ទទួលទានជាមួយទឹកជ្រលក់អំបិលម្រេចក្រូចឆ្មារ"
+    ],
+    "source": "Royal Phnom Penh Restaurant Archive",
+    "verified": true
+  },
+  {
+    "id": "KH000005",
+    "nameKh": "សាច់មាន់ឆាខ្ញីស្រស់",
+    "nameEn": "Stir-fried Chicken with Fresh Ginger",
+    "category": "fried",
+    "mealTypes": ["lunch", "dinner"],
+    "ingredients": [
+      { "ingredientId": "ing-chicken", "nameKh": "សាច់មាន់ស្រែ", "nameEn": "Chicken", "quantity": 400, "unit": "g" },
+      { "ingredientId": "ing-ginger", "nameKh": "ខ្ញីស្រស់ហាន់សរសៃ", "nameEn": "Fresh Ginger", "quantity": 80, "unit": "g" },
+      { "ingredientId": "ing-garlic", "nameKh": "ខ្ទឹមស", "nameEn": "Garlic", "quantity": 15, "unit": "g" },
+      { "ingredientId": "ing-shallots", "nameKh": "ខ្ទឹមក្រហម", "nameEn": "Shallots", "quantity": 20, "unit": "g" },
+      { "ingredientId": "ing-fish-sauce", "nameKh": "ទឹកត្រី", "nameEn": "Fish Sauce", "quantity": 20, "unit": "ml" },
+      { "ingredientId": "ing-cooking-oil", "nameKh": "ប្រេងឆា", "nameEn": "Oil", "quantity": 15, "unit": "ml" }
+    ],
+    "servings": 4,
+    "cookingTimeMinutes": 25,
+    "estimatedCostKHR": 9200,
+    "nutritionPerServing": {
+      "calories": 250,
+      "protein": 27,
+      "carbohydrates": 5,
+      "fat": 12,
+      "fiber": 1.5,
+      "sodiumMg": 480,
+      "vitamins": ["Vitamin B3", "Vitamin B6"],
+      "minerals": ["Selenium", "Phosphorus", "Iron"]
+    },
+    "healthTags": ["high-protein", "immune-boosting", "budget-friendly", "quick-meal"],
+    "instructionsKh": [
+      "កាប់សាច់មាន់ជាដុំតូចៗល្មម ហាន់ខ្ញីជាសរសៃស្តើងៗ",
+      "បំពងខ្ទឹមស និងខ្ទឹមក្រហមក្នុងខ្ទះឱ្យឈ្ងុយ រួចដាក់សាច់មាន់ចូលឆាឱ្យឡើងពណ៌មាស",
+      "ដាក់ខ្ញីហាន់សរសៃចូលឆាកូរត្រឡប់ជាមួយសាច់មាន់",
+      "ផ្សំរសជាតិជាមួយទឹកត្រី ស្ករត្នោត និងទឹកស៊ីអ៊ីវបន្តិច រំងាស់រហូតដល់សាច់មាន់ឆ្អិនទន់ចូលជាតិល្អ"
+    ],
+    "source": "Cambodian Countryside Home Cooking",
+    "verified": true
+  },
+  {
+    "id": "KH000006",
+    "nameKh": "សម្លម្ជូរគ្រឿងសាច់គោត្រកួន",
+    "nameEn": "Sour Kroeung Soup with Beef & Morning Glory",
+    "category": "soup",
+    "mealTypes": ["lunch", "dinner"],
+    "ingredients": [
+      { "ingredientId": "ing-beef", "nameKh": "សាច់គោជាប់សរសៃ", "nameEn": "Beef Shank", "quantity": 300, "unit": "g" },
+      { "ingredientId": "ing-kroeung", "nameKh": "គ្រឿងស្លខ្មែរ", "nameEn": "Kroeung", "quantity": 60, "unit": "g" },
+      { "ingredientId": "ing-morning-glory", "nameKh": "ត្រកួនស្រស់", "nameEn": "Morning Glory", "quantity": 1, "unit": "bundle" },
+      { "ingredientId": "ing-prahok", "nameKh": "ប្រហុក", "nameEn": "Prahok", "quantity": 20, "unit": "g" },
+      { "ingredientId": "ing-tamarind", "nameKh": "អំពិលទុំ", "nameEn": "Tamarind", "quantity": 30, "unit": "g" },
+      { "ingredientId": "ing-fish-sauce", "nameKh": "ទឹកត្រី", "nameEn": "Fish Sauce", "quantity": 20, "unit": "ml" }
+    ],
+    "servings": 4,
+    "cookingTimeMinutes": 45,
+    "estimatedCostKHR": 15200,
+    "nutritionPerServing": {
+      "calories": 240,
+      "protein": 25,
+      "carbohydrates": 10,
+      "fat": 10,
+      "fiber": 4,
+      "sodiumMg": 640,
+      "vitamins": ["Vitamin A", "Vitamin C", "Iron"],
+      "minerals": ["Iron", "Zinc", "Calcium"]
+    },
+    "healthTags": ["iron-rich", "high-fiber", "refreshing", "traditional"],
+    "instructionsKh": [
+      "ហាន់សាច់គោស្តើងៗ ឬកង់ៗ",
+      "បុកគ្រឿងស្លខ្មែរជាមួយប្រហុកបន្តិច រួចយកទៅរំលីងក្នុងឆ្នាំងឱ្យឈ្ងុយ",
+      "ដាក់សាច់គោចូលកូរឱ្យចូលជាតិគ្រឿង រួចចាក់ទឹកចូលរំងាស់ឱ្យសាច់គោផុយ",
+      "ពូតទឹកអំពិលទុំចាក់ចូលដើម្បីបានរសជាតិជូរឈ្ងុយ",
+      "បង់ត្រកួនកាត់កង់ៗចូលឱ្យពុះមួយត្រឡប់ ភ្លក់រសជាតិរួចដួសទទួលទានក្តៅៗ"
+    ],
+    "source": "Battambang Family Cuisine",
+    "verified": true
+  },
+  {
+    "id": "KH000007",
+    "nameKh": "ឆាត្រកួនប្រេងខ្យងខ្ទឹមបំពង",
+    "nameEn": "Stir-fried Morning Glory with Garlic",
+    "category": "vegetable",
+    "mealTypes": ["lunch", "dinner"],
+    "ingredients": [
+      { "ingredientId": "ing-morning-glory", "nameKh": "ត្រកួនស្រស់", "nameEn": "Morning Glory", "quantity": 2, "unit": "bundle" },
+      { "ingredientId": "ing-garlic", "nameKh": "ខ្ទឹមសបំពង", "nameEn": "Garlic", "quantity": 30, "unit": "g" },
+      { "ingredientId": "ing-cooking-oil", "nameKh": "ប្រេងឆា", "nameEn": "Cooking Oil", "quantity": 15, "unit": "ml" },
+      { "ingredientId": "ing-fish-sauce", "nameKh": "ទឹកត្រី និងប្រេងខ្យង", "nameEn": "Sauce", "quantity": 15, "unit": "ml" },
+      { "ingredientId": "ing-white-sugar", "nameKh": "ស្ករស", "nameEn": "Sugar", "quantity": 5, "unit": "g" }
+    ],
+    "servings": 4,
+    "cookingTimeMinutes": 10,
+    "estimatedCostKHR": 5200,
+    "nutritionPerServing": {
+      "calories": 95,
+      "protein": 3.5,
+      "carbohydrates": 6,
+      "fat": 5,
+      "fiber": 4.2,
+      "sodiumMg": 310,
+      "vitamins": ["Vitamin A", "Vitamin C", "Folate"],
+      "minerals": ["Iron", "Magnesium", "Calcium"]
+    },
+    "healthTags": ["vegetarian", "more-vegetables", "high-fiber", "budget-friendly", "quick-meal"],
+    "instructionsKh": [
+      "លាងត្រកួនឱ្យស្អាត កាត់ជាកង់ៗប្រវែង ៤-៥ សង់ទីម៉ែត្រ",
+      "ដំខ្ទឹមសឱ្យបែក ដាក់ឆាក្នុងខ្ទះក្តៅខ្លាំងឱ្យឡើងពណ៌មាសឈ្ងុយ",
+      "ទម្លាក់ត្រកួនចូលឆាភ្លើងខ្លាំងយ៉ាងលឿន",
+      "បង់ប្រេងខ្យង ទឹកត្រី និងស្ករបន្តិច ត្រឡប់ ២-៣ ដង រួចដួសដាក់ចានភ្លាមៗដើម្បីរក្សាពណ៌បៃតងស្រស់"
+    ],
+    "source": "Khmer Daily Healthy Greens",
+    "verified": true
+  },
+  {
+    "id": "KH000008",
+    "nameKh": "ត្រីរ៉ស់អាំងទឹកត្រីស្វាយខ្ចី",
+    "nameEn": "Grilled Snakehead Fish with Green Mango Dip",
+    "category": "grilled",
+    "mealTypes": ["lunch", "dinner"],
+    "ingredients": [
+      { "ingredientId": "ing-fish-snakehead", "nameKh": "ត្រីរ៉ស់ស្រស់", "nameEn": "Snakehead Fish", "quantity": 500, "unit": "g" },
+      { "ingredientId": "ing-salt", "nameKh": "អំបិលកំពត", "nameEn": "Salt", "quantity": 10, "unit": "g" },
+      { "ingredientId": "ing-fish-sauce", "nameKh": "ទឹកត្រី", "nameEn": "Fish Sauce", "quantity": 30, "unit": "ml" },
+      { "ingredientId": "ing-palm-sugar", "nameKh": "ស្ករត្នោត", "nameEn": "Palm Sugar", "quantity": 15, "unit": "g" },
+      { "ingredientId": "ing-shallots", "nameKh": "ខ្ទឹមក្រហម និងម្ទេស", "nameEn": "Shallots & Chili", "quantity": 25, "unit": "g" },
+      { "ingredientId": "ing-lime", "nameKh": "ក្រូចឆ្មារ", "nameEn": "Lime", "quantity": 1, "unit": "piece" }
+    ],
+    "servings": 4,
+    "cookingTimeMinutes": 30,
+    "estimatedCostKHR": 11200,
+    "nutritionPerServing": {
+      "calories": 210,
+      "protein": 30,
+      "carbohydrates": 5,
+      "fat": 5,
+      "fiber": 1.5,
+      "sodiumMg": 510,
+      "vitamins": ["Vitamin C", "Vitamin B12"],
+      "minerals": ["Phosphorus", "Selenium", "Potassium"]
+    },
+    "healthTags": ["high-protein", "lower-fat", "grilled-healthy", "traditional"],
+    "instructionsKh": [
+      "លាងត្រីរ៉ស់ឱ្យស្អាត វះខ្នង និងប្រឡាក់អំបិលកំពតស្តើងៗ",
+      "យកទៅអាំងលើរងើកភ្លើងធ្យូងមធ្យមឱ្យឆ្អិនពណ៌មាស ស្រួយស្បែកក្រៅ សាច់ខាងក្នុងទន់ផ្អែម",
+      "កោសស្វាយខ្ចីជាសរសៃតូចៗ លាយជាមួយទឹកត្រី ស្ករត្នោត ខ្ទឹមក្រហម និងម្ទេសហាន់",
+      "ទទួលទានត្រីអាំងក្តៅៗជ្រលក់ទឹកត្រីស្វាយខ្ចីជាមួយបាយស"
+    ],
+    "source": "Tonle Sap River Fisherman Traditions",
+    "verified": true
+  },
+  {
+    "id": "KH000009",
+    "nameKh": "បាយសាច់ជ្រូកអាំងពងមាន់ចៀន",
+    "nameEn": "Bai Sach Chrouk - Marinated Pork with Rice",
+    "category": "breakfast",
+    "mealTypes": ["breakfast", "lunch"],
+    "ingredients": [
+      { "ingredientId": "ing-pork-lean", "nameKh": "សាច់ជ្រូកបន្ទះ", "nameEn": "Pork Slices", "quantity": 300, "unit": "g" },
+      { "ingredientId": "ing-rice", "nameKh": "អង្ករផ្ការំដួល", "nameEn": "Jasmine Rice", "quantity": 350, "unit": "g" },
+      { "ingredientId": "ing-egg", "nameKh": "ពងមាន់", "nameEn": "Egg", "quantity": 4, "unit": "piece" },
+      { "ingredientId": "ing-garlic", "nameKh": "ខ្ទឹមស និងទឹកដូង", "nameEn": "Garlic & Marinade", "quantity": 25, "unit": "g" },
+      { "ingredientId": "ing-palm-sugar", "nameKh": "ស្ករត្នោត និងទឹកត្រី", "nameEn": "Seasoning", "quantity": 25, "unit": "g" }
+    ],
+    "servings": 4,
+    "cookingTimeMinutes": 25,
+    "estimatedCostKHR": 11800,
+    "nutritionPerServing": {
+      "calories": 420,
+      "protein": 25,
+      "carbohydrates": 54,
+      "fat": 13,
+      "fiber": 2,
+      "sodiumMg": 490,
+      "vitamins": ["Vitamin B1", "Vitamin D"],
+      "minerals": ["Iron", "Selenium", "Zinc"]
+    },
+    "healthTags": ["breakfast-classic", "high-protein", "energy-rich", "comfort-food"],
+    "instructionsKh": [
+      "ប្រឡាក់សាច់ជ្រូកជាមួយខ្ទឹមស ទឹកត្រី ស្ករត្នោត និងទឹកដូងឱ្យចូលជាតិ",
+      "អាំងសាច់ជ្រូកលើភ្លើងធ្យូងរហូតដល់ឡើងពណ៌ត្នោតក្រហមឈ្ងុយ",
+      "ដាំបាយអង្ករផ្ការំដួលឱ្យទន់ល្អ ចៀនពងមាន់តាមចំណូលចិត្ត",
+      "រៀបបាយដាក់ចាន ដាក់សាច់ជ្រូកអាំង និងពងមាន់ចៀន អមដោយជ្រក់ត្រសក់និងខ្ញី"
+    ],
+    "source": "Phnom Penh Morning Culture",
+    "verified": true
+  },
+  {
+    "id": "KH000010",
+    "nameKh": "សម្លប្រហើរត្រីអណ្តែងត្រឡាចល្ពៅ",
+    "nameEn": "Samlor Proheur Vegetable Soup with Catfish",
+    "category": "soup",
+    "mealTypes": ["lunch", "dinner"],
+    "ingredients": [
+      { "ingredientId": "ing-fish-catfish", "nameKh": "ត្រីអណ្តែងស្រស់", "nameEn": "Catfish", "quantity": 400, "unit": "g" },
+      { "ingredientId": "ing-pumpkin", "nameKh": "ល្ពៅទុំ", "nameEn": "Pumpkin", "quantity": 200, "unit": "g" },
+      { "ingredientId": "ing-winter-melon", "nameKh": "ត្រឡាច", "nameEn": "Winter Melon", "quantity": 200, "unit": "g" },
+      { "ingredientId": "ing-kroeung", "nameKh": "គ្រឿងស្លប្រហើរ (ស្លឹកគ្រៃ រមៀត ស្លឹកក្រូច)", "nameEn": "Herbal Paste", "quantity": 50, "unit": "g" },
+      { "ingredientId": "ing-prahok", "nameKh": "ប្រហុក", "nameEn": "Prahok", "quantity": 15, "unit": "g" },
+      { "ingredientId": "ing-fish-sauce", "nameKh": "ទឹកត្រី", "nameEn": "Fish Sauce", "quantity": 15, "unit": "ml" }
+    ],
+    "servings": 4,
+    "cookingTimeMinutes": 35,
+    "estimatedCostKHR": 8600,
+    "nutritionPerServing": {
+      "calories": 215,
+      "protein": 22,
+      "carbohydrates": 16,
+      "fat": 6,
+      "fiber": 4.5,
+      "sodiumMg": 550,
+      "vitamins": ["Vitamin A", "Vitamin C", "Beta-carotene"],
+      "minerals": ["Potassium", "Magnesium", "Calcium"]
+    },
+    "healthTags": ["high-fiber", "low-calorie", "budget-friendly", "more-vegetables", "healthy"],
+    "instructionsKh": [
+      "លាងសម្អាតត្រីអណ្តែង កាត់កង់ៗ រួចស្រឡះទឹក",
+      "បុកគ្រឿងស្លប្រហើរជាមួយប្រហុក និងសាច់ត្រីបន្តិចដើម្បីឱ្យទឹករឹតតែឈ្ងុយ",
+      "ដាំទឹកឱ្យពុះ បង់គ្រឿងស្លចូល បង់ត្រីអណ្តែងចូលដោយមិនកូរឱ្យឆ្អាប",
+      "ដាក់បន្លែល្ពៅ និងត្រឡាចចូលរម្ងាស់ឱ្យឆ្អិនទន់",
+      "បង់ស្លឹកននោង ឬស្លឹកបាស ភ្លក់រសជាតិជូរអែមបែបធម្មជាតិ រួចដួសទទួលទាន"
+    ],
+    "source": "Kampong Chhnang Traditional Recipes",
+    "verified": true
+  },
+  {
+    "id": "KH000011",
+    "nameKh": "គុយទាវភ្នំពេញសាច់ជ្រូកនិងបង្កា",
+    "nameEn": "Phnom Penh Noodle Soup (Kuy Teav)",
+    "category": "breakfast",
+    "mealTypes": ["breakfast", "lunch"],
+    "ingredients": [
+      { "ingredientId": "ing-noodles-rice", "nameKh": "គុយទាវអង្ករស្រស់", "nameEn": "Rice Noodles", "quantity": 400, "unit": "g" },
+      { "ingredientId": "ing-pork-lean", "nameKh": "សាច់ជ្រូកហាន់ស្តើង", "nameEn": "Pork Slices", "quantity": 200, "unit": "g" },
+      { "ingredientId": "ing-prawns", "nameKh": "បង្កាស្រស់បកសំបក", "nameEn": "Prawns", "quantity": 150, "unit": "g" },
+      { "ingredientId": "ing-garlic", "nameKh": "ខ្ទឹមសបំពងឈ្ងុយ", "nameEn": "Crispy Garlic Oil", "quantity": 30, "unit": "g" },
+      { "ingredientId": "ing-mustard-greens", "nameKh": "ស្ពៃ និងសណ្តែកបណ្តុះ", "nameEn": "Greens & Sprouts", "quantity": 150, "unit": "g" },
+      { "ingredientId": "ing-fish-sauce", "nameKh": "ទឹកត្រី និងម្រេចកំពត", "nameEn": "Seasoning", "quantity": 20, "unit": "ml" }
+    ],
+    "servings": 4,
+    "cookingTimeMinutes": 35,
+    "estimatedCostKHR": 15800,
+    "nutritionPerServing": {
+      "calories": 360,
+      "protein": 24,
+      "carbohydrates": 48,
+      "fat": 8,
+      "fiber": 3,
+      "sodiumMg": 590,
+      "vitamins": ["Vitamin C", "Vitamin B3"],
+      "minerals": ["Iron", "Zinc", "Calcium"]
+    },
+    "healthTags": ["comfort-food", "breakfast-favorite", "high-protein", "popular"],
+    "instructionsKh": [
+      "រម្ងាស់ឆ្អឹងជ្រូកជាមួយខ្ទឹមបារាំង និងឆៃថាវដើម្បីបានទឹកស៊ុបថ្លាផ្អែមឆ្ងាញ់",
+      "ស្រុសគុយទាវក្នុងទឹកពុះឱ្យទន់ល្មម រួចរៀបដាក់ចាន",
+      "ស្រុសសាច់ជ្រូក និងបង្កាដាក់ពីលើគុយទាវ",
+      "ដួសទឹកស៊ុបក្តៅៗស្រោចពីលើ បង់ខ្ទឹមបំពង ស្លឹកខ្ទឹម និងម្រេចកំពតឈ្ងុយឆ្ងាញ់"
+    ],
+    "source": "Cambodian Street Noodle Archive",
+    "verified": true
+  },
+  {
+    "id": "KH000012",
+    "nameKh": "ឆាស្ពៃខៀវប្រេងខ្យងពងមាន់",
+    "nameEn": "Stir-fried Mustard Greens with Egg",
+    "category": "vegetable",
+    "mealTypes": ["lunch", "dinner"],
+    "ingredients": [
+      { "ingredientId": "ing-mustard-greens", "nameKh": "ស្ពៃខៀវ", "nameEn": "Mustard Greens", "quantity": 2, "unit": "bundle" },
+      { "ingredientId": "ing-egg", "nameKh": "ពងមាន់", "nameEn": "Egg", "quantity": 3, "unit": "piece" },
+      { "ingredientId": "ing-garlic", "nameKh": "ខ្ទឹមស", "nameEn": "Garlic", "quantity": 15, "unit": "g" },
+      { "ingredientId": "ing-cooking-oil", "nameKh": "ប្រេងឆា", "nameEn": "Oil", "quantity": 15, "unit": "ml" },
+      { "ingredientId": "ing-fish-sauce", "nameKh": "ទឹកត្រី", "nameEn": "Fish Sauce", "quantity": 15, "unit": "ml" }
+    ],
+    "servings": 4,
+    "cookingTimeMinutes": 12,
+    "estimatedCostKHR": 6800,
+    "nutritionPerServing": {
+      "calories": 140,
+      "protein": 7.5,
+      "carbohydrates": 5,
+      "fat": 10,
+      "fiber": 3.8,
+      "sodiumMg": 340,
+      "vitamins": ["Vitamin A", "Vitamin C", "Vitamin K"],
+      "minerals": ["Calcium", "Iron"]
+    },
+    "healthTags": ["vegetarian", "more-vegetables", "budget-friendly", "quick-meal", "high-fiber"],
+    "instructionsKh": [
+      "លាងស្ពៃខៀវឱ្យស្អាត កាត់កង់ៗខ្លីល្មម",
+      "បំពងខ្ទឹមសក្នុងខ្ទះឱ្យឈ្ងុយ គោះពងមាន់ចូលឆាកូរឱ្យបែកជាដុំៗ",
+      "ទម្លាក់ស្ពៃខៀវចូលឆាជាមួយភ្លើងខ្លាំងយ៉ាងរហ័ស",
+      "ផ្សំរសជាតិជាមួយទឹកត្រី និងស្ករបន្តិច រួចដួសដាក់ចានទទួលទាន"
+    ],
+    "source": "Khmer Family Kitchen Routine",
+    "verified": true
+  }
+]

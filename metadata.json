@@ -1,0 +1,6 @@
+{
+  "name": "Our Kitchen – Annual Schedule Management Dashboard",
+  "description": "Annual kitchen duty schedule management dashboard with fair cooking and dishwashing rotation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
